@@ -24,6 +24,7 @@
     <ProjectGuid>{4c829ec6-7259-4462-ae77-1e8c3c21850b}</ProjectGuid>
     <RootNamespace>DXlibHinagata</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Delta_Shooter_2</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
